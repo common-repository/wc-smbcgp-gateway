@@ -1,0 +1,437 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment Gateway SMBCGP for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-30 16:15+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: wc-smbcgp-gateway.php:26 wc-smbcgp-gateway.php:152
+msgid "In order to use SMBCGP, you have to purchase the authentication key at the following site."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:49
+msgid "SMBCGP - Credit Card"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:50
+msgid "Enable the credit card payment by SMBCGP. You can change the other settings here."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:76 wc-smbcgp-gateway.php:500 wc-smbcgp-gateway.php:667
+#: wc-smbcgp-gateway.php:837 wc-smbcgp-gateway.php:1019
+#: wc-smbcgp-gateway.php:1199 wc-smbcgp-gateway.php:1378
+#: wc-smbcgp-gateway.php:1545 wc-smbcgp-gateway.php:1713
+#: wc-smbcgp-gateway.php:1892 wc-smbcgp-gateway.php:2061
+msgid "Enable/Disable"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:77
+msgid "Enable SMBCGP - Credit Card"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:83 wc-smbcgp-gateway.php:507 wc-smbcgp-gateway.php:674
+#: wc-smbcgp-gateway.php:844 wc-smbcgp-gateway.php:1026
+#: wc-smbcgp-gateway.php:1206 wc-smbcgp-gateway.php:1385
+#: wc-smbcgp-gateway.php:1552 wc-smbcgp-gateway.php:1720
+#: wc-smbcgp-gateway.php:1899 wc-smbcgp-gateway.php:2068
+msgid "Title"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:85 wc-smbcgp-gateway.php:509 wc-smbcgp-gateway.php:676
+#: wc-smbcgp-gateway.php:846 wc-smbcgp-gateway.php:1028
+#: wc-smbcgp-gateway.php:1208 wc-smbcgp-gateway.php:1387
+#: wc-smbcgp-gateway.php:1554 wc-smbcgp-gateway.php:1722
+#: wc-smbcgp-gateway.php:1901 wc-smbcgp-gateway.php:2070
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:86
+msgid "Credit Card"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:90 wc-smbcgp-gateway.php:514 wc-smbcgp-gateway.php:681
+#: wc-smbcgp-gateway.php:851 wc-smbcgp-gateway.php:1033
+#: wc-smbcgp-gateway.php:1213 wc-smbcgp-gateway.php:1392
+#: wc-smbcgp-gateway.php:1559 wc-smbcgp-gateway.php:1727
+#: wc-smbcgp-gateway.php:1906 wc-smbcgp-gateway.php:2075
+msgid "Description"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:92 wc-smbcgp-gateway.php:516 wc-smbcgp-gateway.php:683
+#: wc-smbcgp-gateway.php:853 wc-smbcgp-gateway.php:1035
+#: wc-smbcgp-gateway.php:1215 wc-smbcgp-gateway.php:1394
+#: wc-smbcgp-gateway.php:1561 wc-smbcgp-gateway.php:1729
+#: wc-smbcgp-gateway.php:1908 wc-smbcgp-gateway.php:2077
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:93
+msgid "Pay with your credit card"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:97
+msgid "Shop ID"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:102
+msgid "Shop Password"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:107
+msgid "Config ID"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:108
+msgid "Please input the Config ID of the Link Type Plus on the SMBCGP admin panel."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:113
+msgid "Mode"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:117
+msgid "Real"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:118
+msgid "Sandbox"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:122 wc-smbcgp-gateway.php:858
+#: wc-smbcgp-gateway.php:1040 wc-smbcgp-gateway.php:1220
+#: wc-smbcgp-gateway.php:1734 wc-smbcgp-gateway.php:2082
+msgid "Authorization"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:126 wc-smbcgp-gateway.php:862
+#: wc-smbcgp-gateway.php:1044 wc-smbcgp-gateway.php:1224
+#: wc-smbcgp-gateway.php:1738 wc-smbcgp-gateway.php:2086
+msgid "Capture"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:127 wc-smbcgp-gateway.php:863
+#: wc-smbcgp-gateway.php:1045 wc-smbcgp-gateway.php:1225
+#: wc-smbcgp-gateway.php:1739 wc-smbcgp-gateway.php:2087
+msgid "Authorize"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:131 wc-smbcgp-gateway.php:521
+#: wc-smbcgp-gateway.php:688 wc-smbcgp-gateway.php:867
+#: wc-smbcgp-gateway.php:1049 wc-smbcgp-gateway.php:1229
+#: wc-smbcgp-gateway.php:1399 wc-smbcgp-gateway.php:1566
+#: wc-smbcgp-gateway.php:1743 wc-smbcgp-gateway.php:1913
+#: wc-smbcgp-gateway.php:2091
+msgid "Status"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:136 wc-smbcgp-gateway.php:526
+#: wc-smbcgp-gateway.php:693 wc-smbcgp-gateway.php:872
+#: wc-smbcgp-gateway.php:1054 wc-smbcgp-gateway.php:1234
+#: wc-smbcgp-gateway.php:1404 wc-smbcgp-gateway.php:1571
+#: wc-smbcgp-gateway.php:1748 wc-smbcgp-gateway.php:1918
+#: wc-smbcgp-gateway.php:2096
+msgid "Processing"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:137 wc-smbcgp-gateway.php:527
+#: wc-smbcgp-gateway.php:694 wc-smbcgp-gateway.php:873
+#: wc-smbcgp-gateway.php:1055 wc-smbcgp-gateway.php:1235
+#: wc-smbcgp-gateway.php:1405 wc-smbcgp-gateway.php:1572
+#: wc-smbcgp-gateway.php:1749 wc-smbcgp-gateway.php:1919
+#: wc-smbcgp-gateway.php:2097
+msgid "Completed"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:141
+msgid "Logging"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:142
+msgid "Log debug messages"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:144
+msgid "Save debug messages to the WooCommerce System Status log."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:149
+msgid "Authentication Key"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:171
+msgid "Because Authentication Key is not valid, you can not set Real as the mode."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:286 wc-smbcgp-gateway.php:334
+#: wc-smbcgp-gateway.php:348 wc-smbcgp-gateway.php:410
+#: wc-smbcgp-gateway.php:452 wc-smbcgp-gateway.php:629
+#: wc-smbcgp-gateway.php:796 wc-smbcgp-gateway.php:978
+#: wc-smbcgp-gateway.php:1160 wc-smbcgp-gateway.php:1340
+#: wc-smbcgp-gateway.php:1507 wc-smbcgp-gateway.php:1674
+#: wc-smbcgp-gateway.php:1854 wc-smbcgp-gateway.php:2022
+#: wc-smbcgp-gateway.php:2202
+msgid "SMBCGP settlement canceled."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:294 wc-smbcgp-gateway.php:330
+#: wc-smbcgp-gateway.php:344 wc-smbcgp-gateway.php:986
+#: wc-smbcgp-gateway.php:1166 wc-smbcgp-gateway.php:1346
+#: wc-smbcgp-gateway.php:1513 wc-smbcgp-gateway.php:1680
+#: wc-smbcgp-gateway.php:1860 wc-smbcgp-gateway.php:2028
+#: wc-smbcgp-gateway.php:2208
+msgid "SMBCGP settlement completed."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:318 wc-smbcgp-gateway.php:356
+#: wc-smbcgp-gateway.php:366 wc-smbcgp-gateway.php:376
+#: wc-smbcgp-gateway.php:386 wc-smbcgp-gateway.php:396
+#: wc-smbcgp-gateway.php:406 wc-smbcgp-gateway.php:418
+#: wc-smbcgp-gateway.php:430 wc-smbcgp-gateway.php:440
+#: wc-smbcgp-gateway.php:450 wc-smbcgp-gateway.php:462
+#, php-format
+msgid "SMBCGP settlement completed (Transaction No: %s)."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:320
+#, php-format
+msgid "Total amount does not match (Transaction No: %s)."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:328 wc-smbcgp-gateway.php:342
+#, php-format
+msgid "SMBCGP settlement displayed (Transaction No: %s, Detail: %s)."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:332 wc-smbcgp-gateway.php:346
+msgid "SMBCGP settlement expired."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:358 wc-smbcgp-gateway.php:368
+#: wc-smbcgp-gateway.php:378 wc-smbcgp-gateway.php:388
+#: wc-smbcgp-gateway.php:398 wc-smbcgp-gateway.php:408
+#: wc-smbcgp-gateway.php:420 wc-smbcgp-gateway.php:432
+#: wc-smbcgp-gateway.php:442 wc-smbcgp-gateway.php:454
+#: wc-smbcgp-gateway.php:464
+msgid "SMBCGP settlement failed."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:428
+#, php-format
+msgid "SMBCGP settlement displayed (Transaction No: %s)."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:481
+msgid "SMBCGP - CVS"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:482
+msgid "Enable the CVS payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:501
+msgid "Enable SMBCGP - CVS"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:510
+msgid "CVS"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:517
+msgid "Pay with CVS"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:635 wc-smbcgp-gateway.php:804
+msgid "SMBCGP settlement requested."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:648
+msgid "SMBCGP - Pay-easy"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:649
+msgid "Enable the Pay-easy payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:668
+msgid "Enable SMBCGP - Pay-easy"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:677
+msgid "Pay-easy"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:684
+msgid "Pay with Pay-easy"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:817
+msgid "SMBCGP - Docomo"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:818
+msgid "Enable the Docomo payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:838
+msgid "Enable SMBCGP - Docomo"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:847
+msgid "Docomo"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:854
+msgid "Pay with Docomo"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:999
+msgid "SMBCGP - AU"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1000
+msgid "Enable the AU payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1020
+msgid "Enable SMBCGP - AU"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1029
+msgid "AU"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1036
+msgid "Pay with AU"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1179
+msgid "SMBCGP - SoftBank"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1180
+msgid "Enable the SoftBank payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1200
+msgid "Enable SMBCGP - SoftBank"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1209
+msgid "SoftBank"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1216
+msgid "Pay with SoftBank"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1359
+msgid "SMBCGP - DCC"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1360
+msgid "Enable the DCC payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1379
+msgid "Enable SMBCGP - DCC"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1388
+msgid "DCC"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1395
+msgid "Pay with DCC"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1526
+msgid "SMBCGP - FamiPay"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1527
+msgid "Enable the FamiPay payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1546
+msgid "Enable SMBCGP - FamiPay"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1555
+msgid "FamiPay"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1562
+msgid "Pay with FamiPay"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1693
+msgid "SMBCGP - Rakuten Pay V2"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1694
+msgid "Enable the Merpay payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1714
+msgid "Enable SMBCGP - Rakuten Pay V2"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1723
+msgid "Rakuten Pay V2"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1730
+msgid "Pay with Rakuten Pay V2"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1873
+msgid "SMBCGP - PayPay"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1874
+msgid "Enable the PayPay payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1893
+msgid "Enable SMBCGP - PayPay"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1902
+msgid "PayPay"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:1909
+msgid "Pay with PayPay"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:2041
+msgid "SMBCGP - au PAY"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:2042
+msgid "Enable the au PAY payment by SMBCGP."
+msgstr ""
+
+#: wc-smbcgp-gateway.php:2062
+msgid "Enable SMBCGP - au PAY"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:2071
+msgid "au PAY"
+msgstr ""
+
+#: wc-smbcgp-gateway.php:2078
+msgid "Pay with au PAY"
+msgstr ""
